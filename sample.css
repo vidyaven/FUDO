@@ -1,0 +1,82 @@
+#fudo{
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 50px;
+    font-weight: bold
+}
+#btn1{
+    border-radius: 25%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+#two{
+    color: red;
+    font-weight: bold;
+}
+#one{
+    font-weight: bold;
+
+}
+#img1{
+height: 300px;
+width: 300px;
+margin-top: -10%;
+}
+#first{
+    margin-left: 20%;
+}
+#second{
+    margin-left: 70%;
+    margin-top: -10%;
+/* height: 500px;
+width: 200px; */
+}
+#btn2{
+    background-color: red;
+    border-radius: 20%;
+    margin-left: 10%;
+}
+#btn3{
+    border-radius: 20%;
+    margin-left: 3%;
+}
+#btn4{
+    border-radius: 20%;
+    margin-left: 5%;
+}
+#h3{
+    color: red;
+}
+img{
+    height: 200px;
+    width: 50px;
+}
+#pic{
+height: 4%;
+width: 4%;
+}
+#piza{
+  height: 200px;
+  width: 200px;
+  margin-left: 20%;
+  margin-top: -13%;
+  border-radius: 10%;
+}
+#piza2{
+    height: 200px;
+    width: 200px;
+    margin-left: 40%;
+    margin-top: -16%;
+    border-radius: 10%;
+}
+#chef{
+    height: 200px;
+    width: 200px;
+    margin-top: 10%;
+    margin-left:10%;
+}
+#fifth{
+    margin-left: 30%;
+    margin-top: -5%;
+}
